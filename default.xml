@@ -2,11 +2,11 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="./"
-           review="https://www.codeaurora.org/cgit/" />
+           fetch="git://codeaurora.org"
+           review="android-review.googlesource.com" />
 
   <remote  name="github"
-           fetch=".."
+           fetch="git://github.com"
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
