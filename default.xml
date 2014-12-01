@@ -3,7 +3,7 @@
 
   <remote  name="aosp"
            fetch="./"
-           review="https://www.codeaurora.org/" />
+           review="https://www.codeaurora.org/cgit/" />
 
   <remote  name="github"
            fetch=".."
